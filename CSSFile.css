@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    font-family: Lato, serif;
+    font-size: 43px;
+}
+h2 {
+    padding-left: 15px;
+    font-family: Lato;
+}
+
+h3 {
+    font-family: Lato;
+    padding-left: 25px;
+}
+
+p {
+    font-family: Lato, serif;
+    padding-left: 35px;
+}
+
+img {
+    padding-left: 35px;
+    height: 30%;
+    width: 30%;
+}
